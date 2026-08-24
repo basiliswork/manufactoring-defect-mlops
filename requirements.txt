@@ -1,0 +1,7 @@
+tensorflow
+flask
+numpy
+opencv-python-headless
+pytest
+requests
+pylint
